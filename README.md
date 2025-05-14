@@ -24,3 +24,13 @@
    Packaging and pip (Creating/Installing Packages)
    Conditional Statement (Filter, Map, Reduce, Recursive function)
    List comprehension
+   Memory Management
+
+# Day-3
+   List comprehension and Regular Expression.
+   Iterators, Iterables and Generators
+   AsyncIO / Async Programming
+   Type Hints and Annotations (PEP 8)
+   Closures and Decorators
+   Threading
+
